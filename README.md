@@ -1,6 +1,6 @@
 # DiScovering Latent Rrepresentations of Relations for Interacting Systems
 
-This work is now reviewed on EAAI. 
+This work is now reviewed on IEEE Access. 
 
 This repo contains the code for **DiScovering Latent Rrepresentations of Relations for Interacting Systems**. We generated our code based on https://github.com/MilesCranmer/symbolic_deep_learning. 
 
